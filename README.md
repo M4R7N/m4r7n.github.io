@@ -1,2 +1,2 @@
 # m4r7n.github.io
-Main
+Ez a fő oldal, ahonnan mindenféle weboldalamra beláthatsz, mert ilyen istenkirály web-programozó császár akarok lenni.
